@@ -5,7 +5,7 @@
 | Welcome | 
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/05.jpg) |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/04.jpg) |
+
 
 
 **What programs did I use in my RICE?**
