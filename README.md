@@ -61,6 +61,7 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 | Kvantum Dark Theme | https://www.pling.com/p/1398841/ |
 | Kvantum Light Theme | https://www.pling.com/p/1398841/ |
 | GTK Themes | https://github.com/vinceliuice/WhiteSur-gtk-theme | 
+| Custom Neofetch | https://github.com/The-Sensual-Dotfiles/Custom-Neofetch |
 
 ## How to Install Icons, Themes, Plasma Themes... (Only USER)
 **Icons**
