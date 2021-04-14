@@ -18,7 +18,7 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 
 | Name | Description | Why is it needed? |
 | --- | --- | --- |
-| [`Global Menu Libraries`](https://github.com/The-Sensual-Dotfiles/Libreries-Global-Menu-KDE) |  Libraries to adapt the global menu to programs and have a better experience  | Some programs do not come with these settings by default  |
+| [`Global Menu Libraries`](https://github.com/The-Sensual-Dotfiles/Libreries-Global-Menu-KDE) |  Libraries to adapt the global menu to programs and have a better experience  | Some programs do not come with these settings by default xd |
 | [`Window AppMenu Applet`](https://github.com/psifidotos/applet-window-appmenu)| This is a Plasma 5 applet that shows the current window appmenu in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels. |My Latte Dock Layout uses it. 
 | [`Applet Window Title`](https://github.com/psifidotos/applet-window-title)| This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels. |My Latte Dock Layout uses it. 
 | [`Latte Dock`](https://github.com/KDE/latte-dock) | Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. | My "RICE" is all latte dock, specifically this version |
