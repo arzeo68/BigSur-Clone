@@ -6,25 +6,10 @@
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/01.png) |
 
-
-
-**What programs did I use in my RICE?**
+## What programs did I use in my RICE?
 Most of those are from the GNU/Linux PearOS ThiccSur distribution
+- This is the link for the distribution: https://pearos.xyz/versions/
 
-**What theme were I using in that moment**
-| Shell | Theme |
-| --- | --- |
-| Bash | mac (Custom theme by me (FORK OF CLEAN) |
-| Zsh | Gentoo | 
-
-| Preview |
-| --- |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/02.png) |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/03.png) |
-
-**Where could I find those color Schemes?**
-
-In this link my friend: https://github.com/mbadolato/iTerm2-Color-Schemes
 
 ## Dependencies
 You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on it. As well as you also have the following to have the same configuration as me. 
@@ -40,6 +25,12 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 | [`Kvantum`](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) | Kvantum is an SVG-based theme engine for Qt, tuned to KDE and LXQt, with an emphasis on elegance, usability and practicality. | Window Decoration  |
 
 I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/latte-dock)**, as well as this **[Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu)** for you. If you are in ***ARCH LINUX you can install it with an [AUR HELPER](https://wiki.archlinux.org/index.php/AUR_helpers)***
+
+
+| Preview |
+| --- |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/02.png) |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/03.png) |
 
 ## Plasmoids, Widgets, Applets or Extentions that you need
  <a href="https://www.freebsd.org/"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/bsd.png" align="right" height="300px">
