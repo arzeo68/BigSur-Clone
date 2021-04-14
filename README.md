@@ -43,10 +43,22 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 - **[Latte Spacer](https://store.kde.org/p/1287102/)**
 - **[Kpple Menu](https://store.kde.org/p/1384156/)**
 - **[Launchpad Plasma](https://store.kde.org/p/1364064/)**
+- **[Ditto Menu](https://store.kde.org/p/1312669/)**
 
 ## macOS Wallpapers
 
 **[Right here](https://github.com/The-Sensual-Dotfiles/macOS-Wallpapers)**
+
+# Themes, Icons & More
+| Name | Description |
+| --- | --- |
+| Plasma Themes  |  Libraries to adapt the global menu to programs and have a better experience  | 
+| Aurorae | This is a Plasma 5 applet that shows the current window appmenu in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels. |
+| Icons | This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels. |
+| Latte Dock Layout | Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. | 
+| Cursor | SF Pro. This sans-serif typeface is the system font for iOS, macOS, and tvOS | 
+| Kvantum | Kvantum is an SVG-based theme engine for Qt, tuned to KDE and LXQt, with an emphasis on elegance, usability and practicality. | 
+| GTK | For the Virtual Workspaces |
 
 ## How to Install Icons, Themes, Plasma Themes... (Only USER)
 **Icons**
