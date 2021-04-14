@@ -23,6 +23,7 @@ You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on
 | [`Latte Dock`](https://github.com/KDE/latte-dock) | Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. | My "RICE" is all latte dock, specifically this version |
 | [`SanFrancisco Fonts`](https://github.com/The-Sensual-Dotfiles/macOS-Fonts) | SF Pro. This sans-serif typeface is the system font for iOS, macOS, and tvOS | To make it look more like the system |
 | [`Kvantum`](https://github.com/tsujan/Kvantum/blob/master/Kvantum/INSTALL.md) | Kvantum is an SVG-based theme engine for Qt, tuned to KDE and LXQt, with an emphasis on elegance, usability and practicality. | Window Decoration  |
+| [`Parachute`](https://github.com/tcorreabr/Parachute) |Look at your windows and desktops from above.. | For the Virtual Workspaces |
 
 I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/latte-dock)**, as well as this **[Window AppMenu Applet](https://github.com/psifidotos/applet-window-appmenu)** for you. If you are in ***ARCH LINUX you can install it with an [AUR HELPER](https://wiki.archlinux.org/index.php/AUR_helpers)***
 
