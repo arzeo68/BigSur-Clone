@@ -9,7 +9,7 @@
 ## What programs did I use in my RICE?
 Most of those are from the GNU/Linux **PearOS ThiccSur** distribution
 - **This is the link for the distribution:** https://pearos.xyz/versions/
-- **You could find the programs (compile and install theme) here:**https://github.com/alxb421
+- **You could find the programs (compile and install theme) here:** https://github.com/alxb421
 
 
 ## Dependencies
