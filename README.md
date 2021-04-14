@@ -52,13 +52,15 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 # Themes, Icons & More
 | Name | Description |
 | --- | --- |
-| Plasma Themes  |  Libraries to adapt the global menu to programs and have a better experience  | 
-| Aurorae | This is a Plasma 5 applet that shows the current window appmenu in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels. |
-| Icons | This is a Plasma 5 applet that shows the current window title and icon in your panels. This plasmoid is coming from Latte land but it can also support Plasma panels. |
+| Plasma Dark Theme  | https://store.kde.org/p/1400409/ | 
+| Plasma Dark Theme  | https://store.kde.org/p/1400409/ |
+| Aurorae | https://github.com/mkole/KDE-Plasma <- You could use his Kvantum Themes |
+| Icons | https://store.kde.org/p/1400021 |
 | Latte Dock Layout | Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. | 
-| Cursor | SF Pro. This sans-serif typeface is the system font for iOS, macOS, and tvOS | 
-| Kvantum | Kvantum is an SVG-based theme engine for Qt, tuned to KDE and LXQt, with an emphasis on elegance, usability and practicality. | 
-| GTK | For the Virtual Workspaces |
+| Cursor | https://store.kde.org/p/1355701/ | 
+| Kvantum Dark Theme | https://www.pling.com/p/1398841/ |
+| Kvantum Light Theme | https://www.pling.com/p/1398841/ |
+| GTK Themes | https://github.com/vinceliuice/WhiteSur-gtk-theme | 
 
 ## How to Install Icons, Themes, Plasma Themes... (Only USER)
 **Icons**
