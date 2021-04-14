@@ -9,17 +9,7 @@
 
 
 **What programs did I use in my RICE?**
-|  Program | Name |
-| --- | --- |
-| Terminal | Konsole |
-| File Manager | Dolphin |
-| Shell | Bash |
-| Shell | Zsh |
-| Browser | Chromium |
-| Bash Themes | [Oh-my-bash](https://ohmybash.nntoan.com/) | 
-| Zsh Themes | [Oh-my-zsh](https://ohmyz.sh/) |
-| Image Editor | [Photoshop](https://github.com/Gictorbit/photoshopCClinux) |
-| Neofetch | [This Configuration](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch) |
+Most of those are from the GNU/Linux PearOS ThiccSur distribution
 
 **What theme were I using in that moment**
 | Shell | Theme |
@@ -96,13 +86,7 @@ Copy/Move my oh-my-bash theme to this folder
 | --- |
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/m835sf3ip0t61.png) |
 
-<div align="center">
-    <h3>
-<a href="https://github.com/victor-bayas/simplyarch"> <img src="https://github.com/Hblanqueto/The-Sensuals-Dotfiles/blob/master/Images%20to%20the%20Repository/template.png" align="center" height="100px"> </a>
-</h3>
- </div>
-</a
-
+**Personal**
 - Group: https://www.facebook.com/groups/xunix.welcome.to.the.heaven
 - Telegram Group: https://t.me/XUnixCommunity
 
