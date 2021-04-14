@@ -72,6 +72,15 @@ Copy/Move my plasma themes to this folder
 Copy/Move my oh-my-bash theme to this folder
 ***~/.oh-my-bash/custom/themes/***
 
+## Once finished configuring, the result will be 
+| Looks like This |
+| --- |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/m835sf3ip0t61.png) |
+
+**Personal**
+- Group: https://www.facebook.com/groups/xunix.welcome.to.the.heaven
+- Telegram Group: https://t.me/XUnixCommunity
+
 ## Other Stuff
 | [Plymouth Theme](https://www.gnome-look.org/p/1311587/) | 
 | --- | 
@@ -81,13 +90,5 @@ Copy/Move my oh-my-bash theme to this folder
 | --- | 
 | ![OS select](https://raw.github.com/wiki/mireq/rEFInd-Catalina/screenshot_001.png) |
 
-## Once finished configuring, the result will be 
-| Looks like This |
-| --- |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/m835sf3ip0t61.png) |
-
-**Personal**
-- Group: https://www.facebook.com/groups/xunix.welcome.to.the.heaven
-- Telegram Group: https://t.me/XUnixCommunity
 
 
