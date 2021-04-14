@@ -11,6 +11,8 @@ Most of those are from the GNU/Linux **PearOS ThiccSur** distribution
 - **This is the link for the distribution:** https://pearos.xyz/versions/
 - **You could find the programs (compile and install theme) here:** https://github.com/alxb421
 
+## Does this include support for MacOS like touchpad gestures?
+No it doesn't...... BUT you could use this repositorie to add a similar touchpad gestures: https://github.com/NayamAmarshe/ToucheggKDE
 
 ## Dependencies
 You can use any system as long as you have the **PLASMA DESKTOP ENVIRONMENT** on it. As well as you also have the following to have the same configuration as me. 
