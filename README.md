@@ -7,7 +7,7 @@
 | ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/01.png) |
 
 ## What programs did I use in my RICE?
-Most of those are from the GNU/Linux PearOS ThiccSur distribution
+Most of those are from the GNU/Linux **PearOS ThiccSur** distribution
 - This is the link for the distribution: https://pearos.xyz/versions/
 
 
