@@ -4,7 +4,7 @@
 **For whatever reason did you get the idea to clone macOS?**. Well, feel free to use, configure and modify my "clone" as much as you want, here are some things you will need
 | Welcome | 
 | --- |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/05.jpg) |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/01.png) |
 
 
 
@@ -21,7 +21,7 @@
 | Image Editor | [Photoshop](https://github.com/Gictorbit/photoshopCClinux) |
 | Neofetch | [This Configuration](https://github.com/The-Sensual-Dotfiles/Custom-Neofetch) |
 
-**What theme was I using in that moment?**
+**What theme were I using in that moment**
 | Shell | Theme |
 | --- | --- |
 | Bash | mac (Custom theme by me (FORK OF CLEAN) |
@@ -29,7 +29,8 @@
 
 | Preview |
 | --- |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/01.png) |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/02.png) |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/03.png) |
 
 **Where could I find those color Schemes?**
 
