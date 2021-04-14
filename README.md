@@ -93,7 +93,7 @@ Copy/Move my oh-my-bash theme to this folder
 ## Once finished configuring, the result will be 
 | Looks like This |
 | --- |
-| ![screenshot](https://github.com/The-Sensual-Dotfiles/Plasma-Catalina-Rice/blob/main/Pictures/02.png) |
+| ![screenshot](https://github.com/The-Sensual-Dotfiles/BigSur-Clone/blob/main/Screenshots/m835sf3ip0t61.png) |
 
 <div align="center">
     <h3>
