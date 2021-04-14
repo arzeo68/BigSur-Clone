@@ -58,7 +58,7 @@ I obligatorily recommend this version of **[Latte Dock](https://github.com/KDE/l
 | Plasma Dark Theme  | https://store.kde.org/p/1400409/ |
 | Aurorae | https://github.com/mkole/KDE-Plasma <- You could use his Kvantum Themes |
 | Icons | https://store.kde.org/p/1400021 |
-| Latte Dock Layout | Latte is a dock based on plasma frameworks that provides an elegant and intuitive experience for your tasks and plasmoids. | 
+| Latte Dock Layout | In this repositorie. | 
 | Cursor | https://store.kde.org/p/1355701/ | 
 | Kvantum Dark Theme | https://www.pling.com/p/1398841/ |
 | Kvantum Light Theme | https://www.pling.com/p/1398841/ |
